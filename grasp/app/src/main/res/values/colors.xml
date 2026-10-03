@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#1A202C</color>
+    <color name="surface">#2D3748</color>
+    <color name="surface_elevated">#3A4A5C</color>
+    <color name="accent">#4A5568</color>
+    <color name="text_primary">#F7FAFC</color>
+    <color name="text_secondary">#A0AEC0</color>
+    <color name="text_hint">#718096</color>
+    <color name="border">#4A5568</color>
+    <color name="border_soft">#374151</color>
+    <color name="error">#FC8181</color>
+    <color name="answer_highlight">#90CDF4</color>
+    <color name="swipe_correct">#68D391</color>
+    <color name="swipe_wrong">#FC8181</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
